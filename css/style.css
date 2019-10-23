@@ -19,7 +19,8 @@ body {
 .subcontent {
     display: grid; 
     grid-template-areas: 
-    "o o1 o2 o3 o4"; 
+    "o o1"
+    "o2 o3 "; 
 
 }
 .o {
