@@ -6,4 +6,16 @@
 
 body {
     display: grid; 
+
+    /* grid-template-areas: 
+    "na na na na "
+    "su su su na "  
+    "q1 q2 q3 q4"
+    "sb sb sb sb"
+    "ft ft ft ft"; */
+
 }
+
+/* .subcontent {
+    display: grid; 
+} */
