@@ -29,3 +29,9 @@ body {
 .o3{
     grid-area: "o3";
 }
+
+.subfooter {
+
+    color: #fff; 
+    background-color: rgba( 0, 0 ,0 ,0.7)
+}
