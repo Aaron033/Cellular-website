@@ -13,7 +13,7 @@ body {
     display: grid; 
     grid-template-areas: 
     "o o1"
-    "o2 o3 ";
+    "o2 o3";
 }
 .o {
     grid-area: "o";
