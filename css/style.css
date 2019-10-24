@@ -21,13 +21,14 @@ body {
     grid-template-areas: 
     "o o1"
     "o2 o3 "; 
-
+ 
 }
 .o {
     grid-area: "o";
 }
 .o1{
     grid-area: "o1";
+    height: inherit;
 }
 .o2{
     grid-area: "o2";
