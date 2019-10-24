@@ -11,9 +11,11 @@ body {
 
 .subcontent {
     display: grid; 
+    grid-gap: 5px;
     grid-template-areas: 
     "o o1"
     "o2 o3";
+    
 }
 .o {
     grid-area: "o";
