@@ -11,7 +11,9 @@ body {
 
 /* main code */
 
-
+main img {
+    width: 100%;
+}
 /* subontent code  */
 .subcontent {
     display: grid; 
