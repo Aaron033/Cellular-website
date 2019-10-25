@@ -46,6 +46,13 @@ main img {
 footer {
     display: grid; 
     background-color: rgba( 0, 0 ,0 ,0.9);
+
+    grid-template-areas: 
+    "f1"
+    "f2";
+}
+footer h5 {
+    color: #fff;
 }
 footer span {
     background-color: #fff;
@@ -54,3 +61,12 @@ footer span {
 footer a {
     color: #fff ;
 }
+
+.footer-social{
+    grid-area: "f1"; 
+}
+
+.footer-menu {
+    
+}
+
