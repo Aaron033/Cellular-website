@@ -42,11 +42,15 @@ main img {
     background-color: rgba( 0, 0 ,0 ,0.7);
 }
 /* footer code  */
+
 footer {
     display: grid; 
     background-color: rgba( 0, 0 ,0 ,0.9);
 }
-
+footer span {
+    background-color: #fff;
+    border-radius: 50%;
+}
 footer a {
     color: #fff ;
 }
