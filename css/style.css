@@ -8,7 +8,7 @@ body {
     display: grid; 
 
 }
-/* sucontent code  */
+/* subontent code  */
 .subcontent {
     display: grid; 
     grid-gap: 5px;
@@ -29,7 +29,7 @@ body {
 .o3{
     grid-area: "o3";
 }
-
+/* subfooter code  */
 .subfooter {
 
     color: #fff; 
