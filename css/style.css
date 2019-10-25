@@ -66,8 +66,8 @@ footer a {
     grid-area: "f1"; 
 }
 
-.footer-menu ul {
+.footer-menu ul li {
     display: flex; 
-    flex-direction: column;
+    flex-direction: row;
 }
 
