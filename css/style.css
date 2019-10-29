@@ -47,6 +47,13 @@ main img {
     flex-direction: row;
     justify-content: space-around;
 }
+
+.subfooter  h4 {
+    font-weight: bold;
+    color: #00D1B2;
+
+    
+}
 .subText{
     width: inherit;
 }
