@@ -41,6 +41,19 @@ main img {
     color: #fff; 
     background-color: rgba( 0, 0 ,0 ,0.7);
 }
+
+.subfooter   {
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-around;
+}
+.subText{
+    width: inherit;
+}
+
+.subfooter  a {
+    color: #fff ;
+}
 /* footer code  */
 
 footer {
@@ -66,10 +79,4 @@ footer a {
     grid-area: "f1"; 
 }
 
-.subfooter   {
-    display: flex; 
-    flex-direction: row;
-
-    justify-content: space-around;
-}
 
