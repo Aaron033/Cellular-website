@@ -46,13 +46,15 @@ main img {
     display: flex; 
     flex-direction: row;
     justify-content: space-around;
+    flex-grow: 1;
+    flex-basis: 0;
 }
 
 .subfooter  h4 {
     font-weight: bold;
     color: #00D1B2;
+text-transform: uppercase;
 
-    
 }
 .subText{
     width: inherit;
