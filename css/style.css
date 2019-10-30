@@ -10,7 +10,9 @@ body {
 }
 
 /* main code */
-
+main {
+    margin-left: 10px; 
+}
 main img {
     width: 100%;
   
