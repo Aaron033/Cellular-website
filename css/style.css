@@ -13,6 +13,7 @@ body {
 
 main img {
     width: 100%;
+    margin: auto 10px;
 }
 /* subontent code  */
 .subcontent {
