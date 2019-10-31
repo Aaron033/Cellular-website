@@ -59,7 +59,8 @@ text-transform: uppercase;
 }
 
 .subText {
-    flex-grow: 0 !important; 
+
+text-align: center;
 }
 .subfooter  a {
     color: #fff ;
