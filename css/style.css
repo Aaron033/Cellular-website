@@ -9,6 +9,12 @@ body {
 
 }
 
+/* nav */
+
+.mainlogo{
+    width: auto;
+    height: auto;
+}
 /* main code */
 main img {
     margin-left: 10px !important; 
