@@ -68,6 +68,10 @@ text-transform: uppercase;
 
 text-align: center;
 }
+.subText img {
+width: 100px; 
+height: 100px;
+}
 .subfooter  a {
     color: #fff ;
 }
