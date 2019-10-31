@@ -39,17 +39,15 @@ main img {
     grid-area: "o3";
 }
 /* subfooter code  */
-.subfooter {
 
-    color: #fff; 
-    background-color: rgba( 0, 0 ,0 ,0.7);
-}
 
 .subfooter   {
     display: flex; 
     flex-direction: row;
     justify-content: space-around;
-    flex-grow: 1 !important;
+    color: #fff; 
+    background-color: rgba( 0, 0 ,0 ,0.7);
+    padding: 20px;
   
 }
 
