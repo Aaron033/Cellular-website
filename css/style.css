@@ -104,3 +104,9 @@ footer a {
 color: white; 
 font-size: 10px;
 }
+
+.footer-submenu ul {
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-around;
+}
