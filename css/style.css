@@ -100,4 +100,7 @@ footer a {
     grid-area: "f1"; 
 }
 
-
+.footer-legal {
+color: white; 
+font-size: 10px;
+}
