@@ -110,3 +110,9 @@ font-size: 10px;
     flex-direction: row;
     justify-content: flex-start;
 }
+
+.footer-submenu ul li{
+    text-transform: uppercase;
+    font-size: bold;
+    padding: 10px;
+}
