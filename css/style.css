@@ -123,4 +123,5 @@ font-size: 10px;
 .footer-submenu-sub{
     display: flex; 
     flex-direction: row;
+    justify-content: flex-start;
 }
