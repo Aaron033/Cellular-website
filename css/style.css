@@ -18,6 +18,7 @@ body {
 /* main code */
 h1{
     text-align: center;
+    right: 50%;
 top: 50%;
     position: absolute;
     font-weight: bold;
