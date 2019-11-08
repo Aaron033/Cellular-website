@@ -28,6 +28,9 @@ top: 50%;
     font-size: 60px;
   
 }
+@media screen (){
+    
+}
 main img {
    
     margin-left: 10px !important; 
