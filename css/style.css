@@ -28,9 +28,9 @@ top: 50%;
     font-size: 60px;
   
 }
-@media screen (){
-    
-}
+@media (min-width: 1000px) and (max-width: 1300px) {
+    html { background: red; }
+  }
 main img {
    
     margin-left: 10px !important; 
