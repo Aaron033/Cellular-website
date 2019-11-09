@@ -30,7 +30,7 @@ top: 50%;
 }
 @media (min-width: 1000px) and (max-width: 1300px) {
 h1 {
-    
+    top: 30%;
 }
   }
 main img {
