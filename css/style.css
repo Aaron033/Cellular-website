@@ -29,7 +29,9 @@ top: 50%;
   
 }
 @media (min-width: 1000px) and (max-width: 1300px) {
-    html { background: red; }
+h1 {
+    
+}
   }
 main img {
    
