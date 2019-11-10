@@ -49,6 +49,7 @@ main img {
 }
 /* subontent code  */
 .subcontent {
+    position: relative;
     display: grid; 
     grid-gap: 5px;
     grid-template-areas: 
@@ -70,7 +71,7 @@ main img {
 }
 
 h2 { 
-    
+position: absolute;
 }
 /* subfooter code  */
 
