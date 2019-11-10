@@ -44,6 +44,20 @@ h1 {
     
 
   }
+
+  @media (min-width: 300px) and (max-width: 638px) {
+    h1 {
+        top: 20%;
+        font-size: 40px;
+    }
+    h2 {
+        font-size: 15px;
+    }
+    
+
+  }
+
+
 main img {
    
     margin-left: 10px !important; 
