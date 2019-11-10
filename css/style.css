@@ -68,6 +68,10 @@ main img {
 .o3{
     grid-area: "o3";
 }
+
+h2 { 
+    
+}
 /* subfooter code  */
 
 
@@ -80,6 +84,8 @@ main img {
     padding: 20px;
   
 }
+
+
 
 .subfooter  h4 {
     font-weight: bold;
