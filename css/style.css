@@ -68,6 +68,7 @@ main img {
 }
 /* subontent code  */
 .subcontent {
+    margin-left: 10px;
     position: relative;
     display: grid; 
     grid-gap: 5px;
