@@ -54,13 +54,13 @@ h1 {
      "o3" !important;
     }
 
-    h2 {
-        font-size: 15px;
-    }
+   
   }
 
   @media (min-width: 638px) and (max-width: 900px) {
-
+    h2 {
+        font-size: 12px;
+    }
    
   }
 
