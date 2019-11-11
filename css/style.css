@@ -48,6 +48,7 @@ h1 {
   @media (min-width: 300px) and (max-width: 638px) {
 
     .subcontent {
+        display: grid; 
     grid-template-areas: 
     "o"
     "o1"
