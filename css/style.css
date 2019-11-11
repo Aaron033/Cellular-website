@@ -38,9 +38,7 @@ h1 {
         top: 20%;
         font-size: 40px;
     }
-    h2 {
-        font-size: 15px;
-    }
+   
     
 
   }
@@ -55,8 +53,27 @@ h1 {
      "o2"
      "o3" !important;
     }
+
+    h2 {
+        font-size: 15px;
+    }
   }
 
+  @media (min-width: 638px) and (max-width: 900px) {
+
+    .subcontent {
+
+    grid-template-areas: 
+    "o" 
+    "o1"
+     "o2"
+     "o3" !important;
+    }
+
+    h2 {
+        font-size: 15px;
+    }
+  }
 
 main img {
    
