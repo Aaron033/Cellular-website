@@ -48,12 +48,12 @@ h1 {
   @media (min-width: 300px) and (max-width: 638px) {
 
     .subcontent {
-        display: grid; 
+
     grid-template-areas: 
-    "o"
+    "o" 
     "o1"
      "o2"
-     "o3";
+     "o3" !important;
     }
   }
 
@@ -69,6 +69,7 @@ main img {
 /* subontent code  */
 .subcontent {
     margin-left: 10px;
+    margin-right: 10px;
     position: relative;
     display: grid; 
     grid-gap: 5px;
