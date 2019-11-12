@@ -38,15 +38,11 @@ h1 {
         top: 20%;
         font-size: 40px;
     }
-   
-    
-
   }
 
   @media (min-width: 300px) and (max-width: 638px) {
 
     .subcontent {
-
     grid-template-areas: 
     "o" 
     "o1"
@@ -55,7 +51,7 @@ h1 {
     }
 
    .pick1 {
-       color: #fff;
+       color: #fff !important;
    }
   }
 
