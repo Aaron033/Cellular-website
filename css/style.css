@@ -37,6 +37,7 @@ h1 {
     h1 {
         top: 20%;
         font-size: 45px;
+        text-transform: uppercase; 
     }
   }
 
