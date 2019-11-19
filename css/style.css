@@ -87,18 +87,6 @@ main img {
     "o2 o3";
     
 }
-.o {
-    grid-area: "o";
-}
-.o1{
-    grid-area: "o1";
-}
-.o2{
-    grid-area: "o2";
-}
-.o3{
-    grid-area: "o3";
-}
 
 h2 { 
 position: absolute;
