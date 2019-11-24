@@ -18,8 +18,4 @@ document.addEventListener('DOMContentLoaded', () => {
           el.classList.toggle('is-active');
           $target.classList.toggle('is-active');
   
-        });
-      });
-    }
   
-  });
