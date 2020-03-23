@@ -29,4 +29,4 @@ document.addEventListener('DOMContentLoaded', () => {
 
   word= list(word)
 
-  end
+  end_letter = len(word)-1 
