@@ -23,3 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   
   });
+
+
+  def reverse_string(word) 
+  
